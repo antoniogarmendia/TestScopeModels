@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ASCII"?>
+<wt:Subsystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:wt="http://mondo.org/WT" name="new_sub">
+  <ensembles href="platform:/resource/testVisibility/new_sub/ArquitectureControl.arq#/"/>
+  <beh href="platform:/resource/testVisibility/new_sub/ControlFolder/ControlFolder.xmi#/"/>
+</wt:Subsystem>

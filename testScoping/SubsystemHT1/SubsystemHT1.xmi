@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="ASCII"?>
-<wt:Subsystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:wt="http://mondo.org/WT" name="SubsystemHT1">
-  <ensembles href="platform:/resource/testScoping/SubsystemHT1/ComponentMachine.arq#/"/>
-  <beh href="platform:/resource/testScoping/SubsystemHT1/ControlMachines/ControlMachines.xmi#/"/>
-</wt:Subsystem>

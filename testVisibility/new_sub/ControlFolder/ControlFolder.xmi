@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ASCII"?>
+<wt:ControlSubsystem xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:wt="http://mondo.org/WT" name="ControlFolder">
+  <states href="platform:/resource/testVisibility/new_sub/ControlFolder/nStateMachine.state#/"/>
+  <states href="platform:/resource/testVisibility/new_sub/ControlFolder/StateMachineControlH.state#/"/>
+</wt:ControlSubsystem>
